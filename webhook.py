@@ -33,5 +33,5 @@ os.system('color d')
 while True:
     webhook = DiscordWebhook(url=url, content=msg)
     response = webhook.execute()
-    print('Le message à était envoyer!')
+    print('Le message à été envoyer!')
     os.system('color b')
