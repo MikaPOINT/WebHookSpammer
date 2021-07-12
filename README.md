@@ -1,6 +1,6 @@
-# WebHookRaider
+# WebHookSpammer
 
-Un simple webhook raider pour discord :).
+Un simple webhook spammer pour discord :).
 
 ## Installation
 Avoir python 3.7 minimum
