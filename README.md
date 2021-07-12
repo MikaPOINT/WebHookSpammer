@@ -3,7 +3,8 @@
 Un simple webhook raider pour discord :).
 
 ## Installation
+Avoir python 3.7 minimum
 
-Installer le requirements et ouvrir le .py ou .exe 
- Nécessite Python 3.7
+Installer le requirements et ouvrir le .py
+*pip install -r requirements.txt*
 
